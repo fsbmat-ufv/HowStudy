@@ -1,0 +1,771 @@
+---
+title: "Matemática e Estatística"
+subtitle: "Como Estudar e Aprender"
+author: "Fernando Bastos (MAF/CAF/UFV)"
+date: 2020-09-25
+output:
+  xaringan::moon_reader:
+    css: ["default", "ibm-plex.css", "ibm-plex-fonts.css"]
+    self_contained: FALSE
+    nature:
+      # highlightStyle: github
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+---
+
+```{r, cache=FALSE, include=FALSE}
+source("setup_knitr.R")
+```
+
+# Slides
+
+.msmall[
+- HTML: [Clique Aqui!](https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/slides/ColTiradentes.html#1)
+<!-- - PDF: endereco_aqui.pdf -->
+- Código-fonte: [Clique Aqui!](https://github.com/fsbmat-ufv/ColegioTiradentes/tree/master/slides)
+]
+
+<table>
+<tr><td><a href="https://tenor.com/view/gato-escribiendo-gif-6108221"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/QrCode.png" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+
+```{r, echo=FALSE, out.width='50%'}
+#knitr::include_graphics("../img/QrCode.png")
+```
+
+
+---
+# Introdução
+
+```{r, echo=FALSE, out.width='50%'}
+knitr::include_graphics("../img/matTudo.jpg")
+```
+
+---
+
+```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
+#knitr::include_graphics(c("../img/GenerationY.png","../img/GenerationZ.jpg"))
+``` 
+
+<table>
+<tr><td><a href="https://www.hojeemdia.com.br/plural/talentosa-mas-imediatista-gera%C3%A7%C3%A3o-y-precisa-de-empurr%C3%A3o-para-produzir-melhor-1.642946"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GenerationY.png"></a></td>
+    <td><a href="https://www.todoestudo.com.br/historia/nativos-digitais-e-imigrantes-digitais"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GenerationZ.jpg"></a></td>
+</tr>
+</table>
+
+.msmall[
+.pull-left-50[
+**Geração Y (1980 - 2000):**
+
+- Grandes avanços tecnológicos;
+- Prosperidade Econômica e facilidades;
+- Ambiente urbanizado;
+- Smartphones (telefones inteligentes);
+- Alunos das Universidades e Faculdades;
+- Iniciando no mercado de trabalho.
+]
+.pull-right-50[
+**Geração Z (2000 - 2020):**
+
+- Nativos digitais;
+- Geração google;
+- Conectadas;
+- Necessidade de alfabetização tecnológica versus geração kkk;
+- Nossos alunos nas Escolas de Ensino Fundamental e Médio;
+- Cobaias na Evolução "precoce" das atividades remotas e/ou EAD!
+]
+]
+
+---
+# Momento em que Vivemos...
+
+## *Evolução*
+<p style="text-align: justify;">
+O momento em que vivemos é uma mistura de gerações que está sofrendo para se adaptar a uma evolução precoce, mal formatada, não pensada e, de certa forma, imposta como realidade. Estamos adiantando, talvez cerca de 15 a 20 anos, no que diz respeito ao Ensino e Aprendizado com uso de tecnologias. De forma muito precária, pois esta evolução se deu ainda, apenas a partir do uso de tecnologias de interação online, tais como ZOOM, google meet ou outras ferramentas semelhantes. 
+</p>
+---
+# Demoramos para perceber...
+
+```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
+#knitr::include_graphics(c("../img/cell1.jpg","../img/cell2.jpg"))
+``` 
+
+<table>
+<tr><td><a href="https://www.businessinsider.com/best-ways-to-transfer-data-to-new-phone-2018-12"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cell1.jpg"></a></td>
+    <td><a href="https://archive.shine.cn/business/Smartphone-growth-creating-etiquette-challenges/shdaily.shtml"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cell2.jpg"></a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+De fato, não nos demos conta, mas a tecnologia, o uso de celular e de ferramentas tecnológicas já tomam conta da mente de nossos alunos, muito antes dessa pandemia.
+</p>
+
+---
+<p style="text-align: justify;">
+O fato é, que agora, ou os professores se adaptam a ferramentas de Ensino online, ou saem do mercado! E os alunos que antes poderiam ter dificuldades ou não aceitariam tão facilmente, já entenderam ou, acabarão entendendo, que é possível estudar online. Além disso, empresas que antes realizavam somente eventos presenciais, passarão a realizar também, ou somente eventos onlines daqui em diante, pois podem alcançar um público maior. Isso tudo, sem sair de casa, ou seja, sem perder tempo com deslocamentos.
+</p>
+---
+<p style="text-align: justify;">
+A pandemia não é bem vinda e ninguém deseja que ela permaneça, mas o fato é que ela adiantou alguns processos e fenômenos. Um deles, é a necessidade de profissionais que saibam trabalhar com o computador, o smartphone e outras ferramentas tecnológicas. Além disso, muitos processos serão automatizados daqui em diante, substituindo o trabalho humano. Não podemos fechar os olhos para essa verdade, ou nos adiantamos e nos aperfeiçoamos nos diversos recursos tecnológicos, ou estamos fadados ao desemprego e a dificuldades financeiras.
+</p>
+---
+
+## Desafios
+
+.msmall[
+.pull-left-50[
+**Professores:**
+
+- Se manter jovem;
+- Praticar o desapego e dar autonomia ao estudante;
+- Se atualizar e sair da zona de conforto. Conversar mais com os pares;
+- Utilizar metodologias ativas de Ensino;
+- Elaborar avaliações.
+]
+.pull-right-50[
+**Alunos:**
+
+- Ter paciência;
+- Ajudar o professor;
+- Aprender a selecionar o que é importante!
+]
+]
+
+---
+
+class: center, middle, inverse
+# Ensino Remoto
+
+## Caixa de Ferramentas
+
+---
+```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
+#knitr::include_graphics("../img/khanAcademy.jpg")
+```
+
+<table>
+<tr><td><a href="https://pt.khanacademy.org/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/khanAcademy.jpg"></a></td>
+</table>
+<p style="text-align: justify;">
+Khan Academy é uma organização sem fins lucrativos fundada por Salman Khan. No Brasil, os vídeos são traduzidos para português brasileiro pela Fundação Lemann.
+</p>
+---
+
+<table>
+<tr><td><a href="https://www.ted.com/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/TEDtalks.jpg"></a></td>
+</table>
+<p style="text-align: justify;">
+O TED é uma organização sem fins lucrativos dedicada a espalhar idéias, geralmente na forma de palestras curtas (18 minutos ou menos). Existe desde 1984.
+</p>
+```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
+#knitr::include_graphics("../img/TEDtalks.jpg")
+```
+---
+
+<table>
+<tr><td><a href="https://www.youtube.com/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Youtube.jpg"></a></td>
+</table>
+<p style="text-align: justify;">
+Plataforma de compartilhamento de vídeos com sede em San Bruno, Califórnia. O serviço foi criado por três ex-funcionários do PayPal - Chad Hurley, Steve Chen e Jawed Karim - em fevereiro de 2005. 
+</p>
+```{r, echo=FALSE,out.width = "800px", out.height= "500px",fig.align='center'}
+#knitr::include_graphics("../img/Youtube.jpg")
+```
+---
+
+# Outras indicações:
+
+- [Veduca](http://veduca.org/)`r icon::fa("external-link-alt")`
+- [Udemy](https://www.udemy.com/)`r icon::fa("external-link-alt")`
+- [Data Science Academy](https://www.datascienceacademy.com.br/)`r icon::fa("external-link-alt")`
+- [Code Avengers](https://www.codeavengers.com/)`r icon::fa("external-link-alt")`
+- [Udacity](https://www.udacity.com/)`r icon::fa("external-link-alt")`
+- [Coursera](https://www.coursera.org/)`r icon::fa("external-link-alt")`
+- [Estatidados](https://linktr.ee/estatidados)`r icon::fa("external-link-alt")`
+- [Financial Risk Academy](https://financial-risk-academy.teachable.com/courses/)`r icon::fa("external-link-alt")`
+- Telegram e Whatsapp possuem canais de livros e de ajuda em disciplinas básicas!
+- [Duolingo](https://www.duolingo.com/)`r icon::fa("external-link-alt")`
+- [StackOverflow](https://pt.stackoverflow.com/)`r icon::fa("external-link-alt")`
+- [StackExchange](https://stackexchange.com/sites)`r icon::fa("external-link-alt")`
+- Se quiser saber mais sobre cursos online gratuitos [clique aqui](https://pt.lmgtfy.com/?q=cursos+online+gratuitos)
+- Softwares R, Geogebra, Excel,  linguagem Latex - [(overleaf)](https://www.overleaf.com?r=4468ebc9&rm=d&rs=b)
+
+---
+
+<table>
+<tr><td><a href="https://www.americatv.com.pe/noticias/salud/que-suenan-dedos-al-doblarlos-n265822"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/beginWork.gif" alt="this slowpoke moves"  width=1000/></a></td>
+</table>
+
+
+
+```{r, echo=FALSE,out.width = "900px", fig.align='center'}
+#knitr::include_graphics("../img/beginWork.gif")
+```
+
+---
+
+
+class: center, middle, inverse
+# Ciência de Dados
+
+---
+
+## O que é...
+<p style="text-align: justify;">
+é a área que incluí informações e conceitos complexos sobre dados e análise de dados. É multidisciplinar e está estruturada em variados setores, canais e plataformas. Seu fluxo é dado por:
+</p>
+<table>
+<tr><td><a href="https://openscapes.github.io/slides/betterscience/socalR#20">
+<img src="../img/data-science.png" style = "display: block; margin-left: auto; margin-right: auto;"></a></td>
+</table>
+
+---
+<p style="text-align: justify;">
+De acordo com o <a href="https://www.gartner.com/en/" title="Instituto Gartner">Instituto Gartner</a>, 2,2 milhões de terabytes de novos dados são criados todos os dias e a previsão é que até 2020 haja um total de 40 trilhões de gigabytes de dados no mundo.  Estima-se que menos de 5% dos dados gerados são analisados e transformados em informação.
+</p>
+
+<table>
+<tr><td><a href="https://tenor.com/view/gato-escribiendo-gif-6108221"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Programacao.gif" alt="this slowpoke moves"  width=500/></a></td>
+</table>
+
+```{r, echo=FALSE,out.width = "600px", fig.align='center'}
+#knitr::include_graphics("../img/Programacao.gif")
+```
+
+---
+
+class: center, middle, inverse
+#O que é preciso para se tornar um Cientista de Dados?
+
+---
+
+## Ter um pensamento lógico-matemático
+
+<table>
+<tr><td><a href="https://tenor.com/view/imlost-im-lost-confused-calculate-gif-9919713"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maths.gif" alt="this slowpoke moves"  width=600/></a></td>
+</table>
+
+Estude geometria, álgebra, contagem, funções, probabilidade, matemática financeira e etc.
+
+---
+
+## Aprenda a programar
+
+<table>
+<tr><td><a href="https://tenor.com/view/programing-crazy-hard-developer-gif-7866345"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/programation.gif" alt="this slowpoke moves"  width=400/></a></td>
+</table>
+
+<p style="text-align: justify;">
+É extremamente importante saber programar em alguma linguagem. Dê preferência a linguagens de programação consolidadas, C, C++, java, python, R e ou qualquer outra que seja de interesse do mercado. Além disso, saiba trabalhar com banco de dados, no minímo, em formatos exportados pelo Excel, xls, xlsx, csv e txt. 
+</p>
+
+---
+
+## Gostar de estudar
+
+<table>
+<tr><td><a href="https://tenor.com/view/book-studying-study-getting-knowledge-funny-gif-17502795"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Study.gif" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+
+<p style="text-align: justify;">
+Ser pró-ativo e saber buscar a informação de maneira rapída depende de estudo constante e muita leitura.
+</p>
+---
+
+## Salário
+
+<table>
+<tr><td><a href="https://www.vagas.com.br/cargo/cientista-de-dados"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/salario2.jpg"></a></td>
+</tr>
+</table>
+
+[Vagas.com](https://www.vagas.com.br/cargo/cientista-de-dados)
+
+[Exame](https://exame.com/carreira/as-linguagens-de-programacao-com-os-maiores-salarios-do-mundo-em-2020/) - Salário médio anual no mundo para quem trabalha com o software R e a linguagem R é de US$ 61.629,60.
+
+---
+
+
+class: center, middle, inverse
+# Software R
+
+---
+<p style="text-align: justify;">
+Após instalar o software R e abrir o programa veremos algo semelhante a:
+</p>
+
+<table>
+<tr><td><center><img width="100%" height="70%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Console_R.jpg"></center></td>
+</tr>
+</table>
+
+```{r, echo=FALSE,out.width = "1000px", fig.align='center'}
+#knitr::include_graphics("../img/Console_R.jpg")
+```
+
+---
+
+<p style="text-align: justify;">
+Apesar de ser simples utilizar o R diretamente do seu console raiz, existe um compilador que é mais atrativo. O RStudio é o melhor ambiente disponível para programação em R. Ao abrir o RStudio, você verá 4 ambientes. Observe a figura abaixo.
+</p>
+
+<table>
+<tr><td><center><img width="70%" height="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/rstudio-editor.png"></center></td>
+</tr>
+</table>
+
+```{r, echo=FALSE,out.width = "500px", fig.align='center'}
+#knitr::include_graphics("../img/rstudio-editor.png")
+```
+---
+
+<table>
+<tr><td><a href="https://fsbmat-ufv.github.io/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PessoalPage.jpg"></a></td>
+    <td><a href="https://maf172.github.io/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf172.jpg"></a></td>
+</tr>
+</table>
+<table>
+<tr><td><a href="https://maf105.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf105.jpg"></a></td>
+    <td><a href="https://maf261.github.io"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/maf261.jpg"></a></td>
+</tr>
+</table>
+
+---
+<table>
+<tr><td><a href="https://arxiv.org/abs/2004.11470"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo1.jpg"></a></td>
+    <td><a href="https://www.tandfonline.com/doi/abs/10.1080/02664763.2020.1780570?journalCode=cjas20"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/artigo2.jpg"></a></td>
+</tr>
+</table>
+<table>
+<tr><td><a href="https://fsbmat-ufv.shinyapps.io/orcDesp/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Orcamento.jpg"></a></td>
+    <td><a href="https://fsbmat-ufv.shinyapps.io/flexdashboard/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Diarias.jpg"></a></td>
+</tr>
+</table>
+---
+
+# CoronaBR: Dashboard com visualizações sobre os dados da Covid 19
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CoronaBR.jpg"></center></a></td>
+</tr>
+</table>
+
+**Vantagens**
+
+- Apresenta dados somente sobre as cidades que possuem casos confirmados;
+- Apresenta estimativa dos recuperados;
+- Atualiza de 12 em 12 horas;
+- Apresenta o Código Fonte.
+---
+
+# Treemap
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Treemap.jpg"></center></a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Técnica de visualização para representar dados hierárquicos usando retângulos aninhados. Nesse caso a área do retângulo representa o número de contaminados e a intensidade da cor vermelha representa o número de óbitos.
+</p>
+
+
+---
+
+# Estados
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Estados.jpg"></center></a></td>
+</tr>
+</table>
+
+- Casos de confirmados e óbitos acumulados;
+- Número de casos diários.
+
+---
+
+# Cidades
+
+<table>
+<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Cidades.jpg"></center></a></td>
+</tr>
+</table>
+
+- Casos Diários 
+- Casos Acumulados
+
+---
+<p style="text-align: justify;">
+Obviamente, houve um aumento assustador. O número de casos confirmados relatados praticamente dobrou a cada três ou quatro dias dias, ás vezes, em dois dias. E, embora seja importante conhecer o número bruto de casos confirmados, usar somente essas informações pode rapidamente levar uma pessoa a pensar em um cenário iminente e inevitável do dia do juízo final. 
+</p>
+
+<table>
+<tr><td><a href="https://www.eupraticosport.com.br/alexandre-fonseca-game-over-insert-coin/"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/giphy.gif" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+
+---
+
+<p style="text-align: justify;">
+Assim, é extremamente importante falar sempre sobre o número de recuperados e também avaliar outras variáveis. Por exemplo, comparar o número de óbitos de 2020 com o número de óbitos de anos anteriores. Outra coisa, é importante ressaltar que, possivelmente, o número de testes aumentaram no Pais no decorrer do tempo, quanto mais testes, mais casos confirmados. Pois como sabemos, cerca de 80% das pessoas não apresentam sintomas. O que quero dizer é que um dia com maior número de casos pode, simplesmente, ser um dia que foram realizados mais testes.
+</p>
+
+<table>
+<tr><td><a href="https://medium.com/@fmelosilva/testes-de-muta%C3%A7%C3%A3o-com-pit-c4e881286741"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/microscopio2.gif" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+
+
+---
+
+<table>
+<tr><td><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/redmap1.png"></a></td>
+    <td><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/bluemap.png"></a></td>
+</tr>
+</table>
+
+- O mapa da esquerda está usando totais (valores absolutos) como dados brutos.
+- O mapa da direita está normalizado considerando o tamanho populacional para suportar uma comparação visual precisa.
+<p style="text-align: justify;">
+10 casos em uma cidade de 100.000 habitantes são uma situação bem diferente de 10 casos em uma cidade de 100 habitantes.
+</p>
+---
+
+## Fonte não Segura!
+
+<table>
+<tr><td><a href="https://twitter.com/RicaPerrone/status/1278282858315079680"><img width="80%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/avaliacaoErrada2.jpg"></a></td></tr>
+</table>
+
+---
+
+## Fonte Segura!
+
+<table align=center><tr><td>
+<video width="600" height="400" controls>
+  <source src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/video1.mp4" type="video/mp4">
+</video>
+</td></tr></table>
+
+**Fonte:**[Clique Aqui!](https://twitter.com/Capyvara/status/1268891697745977345)
+
+---
+
+# Painel Registral - Registro Civil
+
+<table>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio1.jpg"></center></a></td>
+</tr>
+</table>
+
+Outras causas relacionadas também foram avaliadas, como:
+
+- Síndrome respiratória aguda grave (SRAG)
+- Pneumonia
+- Insuficiência respiratória
+- Septicemia (sepse/choque séptico)
+- Indeterminadas (ligadas a doenças respiratórias)
+- Demais óbitos (todos os outros tipos de óbitos)
+
+---
+
+# Período: 01 de janeiro a 28 de junho de 2020
+
+## Brasil
+
+<table>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Brasil.png"></center></a></td>
+</tr>
+</table>
+
+.msmall[
+.pull-left-50[
+**2019:**
+
+- Demais Óbitos: 312.058
+- Insuficiência Respiratória: 47.388
+- Pneumonia: 107.662
+- Septicemia: 84.551
+- Indeterminada: 3.132
+- SRAG: 713
+- **Total de óbitos: 555.504**
+]
+.pull-right-50[
+**2020:**
+
+- Demais Óbitos: 310.546
+- Insuficiência Respiratória: 47.068
+- Pneumonia: 91.113
+- Septicemia: 75.435
+- Indeterminada: 4.345
+- SRAG: 9.022
+- Covid19: 55.501
+- **Total de óbitos: 593.030**
+]
+]
+
+---
+
+## São Paulo
+
+<table>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/SaoPaulo.png"></center></a></td>
+</tr>
+</table>
+
+.msmall[
+.pull-left-50[
+**2019:**
+
+- Demais Óbitos: 77.557
+- Insuficiência Respiratória: 12.527
+- Pneumonia: 35.480
+- Septicemia: 21.450
+- Indeterminada: 674
+- SRAG: 146
+- **Total de óbitos: 147.834**
+]
+.pull-right-50[
+**2020:**
+
+- Demais Óbitos: 77.348
+- Insuficiência Respiratória: 13.827
+- Pneumonia: 28.180
+- Septicemia: 19.026
+- Indeterminada: 837
+- SRAG: 1.287
+- Covid19: 16.565
+- **Total de óbitos: 157.070**
+]
+]
+
+---
+
+## Ceará
+
+<table>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Ceara.png"></center></a></td>
+</tr>
+</table>
+
+.msmall[
+.pull-left-50[
+**2019:**
+
+- Demais Óbitos: 11.833
+- Insuficiência Respiratória: 1.482
+- Pneumonia: 3.830
+- Septicemia: 2.412
+- Indeterminada: 50
+- SRAG: 23
+- **Total de óbitos: 19.630**
+]
+.pull-right-50[
+**2020:**
+
+- Demais Óbitos: 12.563
+- Insuficiência Respiratória: 1.375
+- Pneumonia: 3.081
+- Septicemia: 2.121
+- Indeterminada: 79
+- SRAG: 410
+- Covid19: 5.714
+- **Total de óbitos: 25.343**
+]
+]
+
+---
+
+## Minas Gerais
+
+<table>
+<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/MinasGerais.png"></center></a></td>
+</tr>
+</table>
+
+.msmall[
+.pull-left-50[
+**2019:**
+
+- Demais Óbitos: 32.266
+- Insuficiência Respiratória: 5.080
+- Pneumonia: 10.070
+- Septicemia: 8.861
+- Indeterminada: 886
+- SRAG: 98
+- **Total de óbitos: 57.261**
+]
+.pull-right-50[
+**2020:**
+
+- Demais Óbitos: 31.862
+- Insuficiência Respiratória: 4.667
+- Pneumonia: 8.842
+- Septicemia: 8.334
+- Indeterminada: 832
+- SRAG: 304
+- Covid19: 1.443
+- **Total de óbitos: 56.284**
+]
+]
+
+---
+
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba1"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/SemIsolamento.svg"></center></a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+O pico de infectados, sem medidas de distanciamento, poderia ter ocorrido em abril. Estima-se que o número real de infectados no começo de abril foi, ao menos, 10 vezes menor, se comparado ao pico no cenário hipotético de evolução descontrolada da doença.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba1)
+
+---
+
+
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba2#">
+<center>
+  <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Simulacao1.svg"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+O pico de infectados, que poderia ter ocorrido em abril com milhões de casos (cenário (a)), foi adiado e achatado, O cenário (c) implicaria em cerca de 10 vezes menos infectados e mortos.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba2)
+
+---
+
+
+<table>
+<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba3#">
+<center>
+  <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Leitos.svg"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+As linhas horizontais tracejadas indicam a capacidade aproximada do sistema de saúde municipal para cada tipo de leito, baseada em dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES) de fevereiro de 2020.
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba3#)
+
+---
+
+## Avanço da Covid em Minas Gerais 
+
+<table>
+<tr><td><a href="https://covid19br.github.io/estados.html?uf=mg#">
+<center>
+  <img width="80%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/ObservatorioMG.svg"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Pontos em azul são a previsão para os próximos 5 dias (entre 55081 e 57482 casos em 06/07/2020).
+</p>
+
+[Observatório COVID-19](https://covid19br.github.io/estados.html?uf=mg#)
+
+---
+
+## Minas Gerais
+
+<table>
+<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
+<center>
+  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CovidLPMG.png"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Pontos em pretos são a previsão para os próximos 14 dias (Aproximadamente 53589 confirmados em 03/07/2020). Acessado no dia 03/07/2020.
+</p>
+
+[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
+
+---
+
+## Minas Gerais
+
+<table>
+<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
+<center>
+  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PrevisaoLongoMG.png"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Pontos em pretos são a previsão para os próximos 14 dias (62940 casos em 03/07/2020). Acessado no dia 03/07/2020.
+</p>
+
+[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
+
+---
+
+## Brasil
+
+<table>
+<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
+<center>
+  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PrevisaoLongo.png"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+<p style="text-align: justify;">
+Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos em 03/07/2020). Acessado no dia 29/06/2020.
+</p>
+
+[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
+
+---
+
+<p style="text-align: justify;">
+Ninguém pode ter tanta certeza nesse momento de dificuldades, novidades e incertezas que vivemos, pois com certeza estará sujeito a errar constantemente!
+</p>
+
+<table>
+<tr><td><a href="https://twitter.com/OuroDiTolo/status/1278307592809349124?s=09">
+<center>
+  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/OsmarTerra.jpg"></img>
+</center>
+</a></td>
+</tr>
+</table>
+
+---
+
+
+> *Ciência é conhecimento que entendemos tão bem que podemos ensiná-la
+> para um computador. Todo o resto é arte.*
+
+> Donald Knuth, 1974
+
+---
+
+# Referências
+
+- Bastos, F.S. [Dashboard sobre a Covid19](https://fsbmat.shinyapps.io/CoronaBR/), acessado em 29/06/2020.
+- Pesquisadores, Professores e Alunos da UFMG. [CovidLP - Previsão de Curto e Longo prazos para Covid-19](http://est.ufmg.br/covidlp/home/pt/), acessado em 29/06/2020. 
+- Pesquisadores, Professores e Alunos de diversas Instituições de Ensino [Observatório Covid-19 BR](https://covid19br.github.io/index.html), acessado em 29/06/2020.
+- Melo, C., [SIGMODAL](https://sigmoidal.ai/quanto-ganha-um-cientista-de-dados/), acessado em 29/06/2020.
+
+---
+
+class: center, middle, inverse
+# Obrigado!
+
