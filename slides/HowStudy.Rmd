@@ -35,48 +35,216 @@ source("setup_knitr.R")
 
 
 ---
-# Introdução
-
-```{r, echo=FALSE, out.width='50%'}
-knitr::include_graphics("../img/matTudo.jpg")
-```
-
----
-
-```{r, echo=FALSE,out.width="49%", out.height="20%",fig.cap=" ",fig.show='hold',fig.align='center'}
-#knitr::include_graphics(c("../img/GenerationY.png","../img/GenerationZ.jpg"))
-``` 
+# Motivação
 
 <table>
-<tr><td><a href="https://www.hojeemdia.com.br/plural/talentosa-mas-imediatista-gera%C3%A7%C3%A3o-y-precisa-de-empurr%C3%A3o-para-produzir-melhor-1.642946"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GenerationY.png"></a></td>
-    <td><a href="https://www.todoestudo.com.br/historia/nativos-digitais-e-imigrantes-digitais"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/GenerationZ.jpg"></a></td>
-</tr>
+<tr><td><img width="130%" src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/matTudo.jpg"></a></td>
 </table>
-
-.msmall[
-.pull-left-50[
-**Geração Y (1980 - 2000):**
-
-- Grandes avanços tecnológicos;
-- Prosperidade Econômica e facilidades;
-- Ambiente urbanizado;
-- Smartphones (telefones inteligentes);
-- Alunos das Universidades e Faculdades;
-- Iniciando no mercado de trabalho.
-]
-.pull-right-50[
-**Geração Z (2000 - 2020):**
-
-- Nativos digitais;
-- Geração google;
-- Conectadas;
-- Necessidade de alfabetização tecnológica versus geração kkk;
-- Nossos alunos nas Escolas de Ensino Fundamental e Médio;
-- Cobaias na Evolução "precoce" das atividades remotas e/ou EAD!
-]
-]
+<p style="text-align: center;">
+A Matemática está em tudo e em todo lugar!
+</p>
 
 ---
+
+# Motivação
+
+<table>
+<tr><td><img width="130%" src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/estTudo.jpg"></a></td>
+</table>
+<p style="text-align: center;">
+A Estatística também!
+</p>
+
+---
+<p style="text-align: justify;">
+A afirmação "a matemática está em todo lugar" é um bom remédio para à pergunta clichê ''Quando ou onde vou usar isso?'' 
+</p>
+<p style="text-align: justify;">
+A matemática está em toda parte, assim como tudo está em toda parte. A ciência está em toda parte, a arte está em toda parte, a linguagem está em toda parte e, em alguns casos, a onipresença é suficiente para convencer as pessoas de que usarão esses assuntos. Mas...
+</p>
+<p style="text-align: CENTER;">
+NÃO É A MELHOR RESPOSTA!
+</p>
+---
+<p style="text-align: justify;">
+Precisamos, de fato, de motivação, não basta alguém nos dizer que é importante!
+</p>
+
+<p style="text-align: justify;">
+No entanto, você jovem que faz essa pergunta para seu professor, já pensou que, seu professor não tem a resposta para tudo! E que a Matemática está presente em seu currículo pois em algum momento você irá precisar daquele assunto!
+</p>
+<table>
+<tr><td><img src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/madruga.gif" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+---
+
+<p style="text-align: justify;">
+Você precisa ouvir!
+</p>
+
+<table>
+<tr><td><img src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/susto.gif" alt="this slowpoke moves"  width=400/></a></td>
+</table>
+
+<p style="text-align: justify;">
+Se você não quer estudar Matemática ou Estatística, você deve sair da Universidade! Se quiser terminar sua graduação, ou um mestrado, ou um doutorado, você terá que passar por alguma disciplina que usa conceitos matemáticos!
+</p>
+---
+
+<p style="text-align: justify;">
+De onde vem o pânico dos estudantes em relação a Matemática? É uma questão de personalidade, conhecimento prévio ou atitude? E como um estudante pode tirar boas notas?
+</p>
+
+<table>
+<tr><td><img src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/Thinking.gif" alt="this slowpoke moves"  width=300/></a></td>
+</table>
+
+<p style="text-align: justify;">
+Essas perguntas precisam ser respondidas pelo professor e pelo próprio estudante. Pois ambos precisam ser responsáveis pela formação acadêmica, pelo ensino e pelo aprendizado!
+</p>
+---
+
+## Responsabilidades do Professor
+
+<table class="center">
+<tr><td><a href="https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364"><img width="100%" heigth="100%" src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/George.jpg"></a></td>
+<td>
+<p style="text-align: justify;">
+Um dos mais importantes deveres do professor é o de auxiliar os seus alunos, o que não é fácil, pois exige tempo, prática, dedicação e princípios firmes.
+</p>
+
+<p style="text-align: justify;">
+Se o professor ajudar demais, nada restará para o aluno fazer. O professor deve auxiliar, nem de mais nem de menos, mas de tal modo que ao estudante caiba uma parcela razoável do trabalho.
+</p>
+</td>
+</table>
+
+
+
+
+
+<p style="text-align: justify;">
+**Ser referência** - Há dois objectivos que o professor pode ter em vista ao dirigir ao seu aluno uma indagação ou um exercício: primeiro, auxiliá-lo a resolver o problema que lhe é apresentado; segundo, desenvolver no estudante a capacidade de resolver futuros problemas por si próprio.
+</p>
+---
+class: center, middle, inverse
+# O que é Necessário para o Estudante Aprender Matemática e Estatística?
+
+---
+<p style="text-align: justify;">
+É suficiente...
+</p>
+
+<p style="text-align: justify;">
+...assistir as aulas?
+</p>
+
+<p style="text-align: justify;">
+...fazer as listas de exercícios?
+</p>
+
+<p style="text-align: justify;">
+...assistir videos no youtube?
+</p>
+
+<p style="text-align: justify;">
+...passar na disciplina, respondendo ou calculando os resultados sem interpretá-los?
+</p>
+
+<table>
+<tr><td><img src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/Jen.gif" alt="this slowpoke moves"  width=500/></a></td>
+</table>
+---
+<table>
+<tr><td><img src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/nao.gif" alt="this slowpoke moves"  width=800/></a></td>
+</table>
+---
+<p style="text-align: justify;">
+Matemática é um assunto que precisa de uma base sólida, pois depende de tópicos sequenciais. Por exemplo, você começa a somar, subtrair, dividir e multiplicar, a inserir incógnitas, equações, funções, depois a geometria básica, a trigonometria. Então, conforme você constrói seu conhecimento, você pode dominar assuntos mais difíceis em matemática, como álgebra, geometria e cálculo.
+</p>
+ 
+<p style="text-align: justify;">
+Se você chegou a um curso superior, significa que você está apto a construir esse conhecimento. Mas precisa começar desde o inicio! Precisa estudar, principalmente, a matemática básica, o começo do cálculo e/ou da álgebra! Todos podem aprender matemática.
+</p>
+---
+class: center, middle, inverse
+# Mas, então, o que é Necessário para o Estudante Aprender Matemática e Estatística?
+
+---
+
+## Internalize as aulas de matemática
+
+Resolver um problema de matemática sem o conhecimento prévio necessário seria como construir uma casa sem ter uma base sólida.
+
+ - Se você tem dúvidas de Matemática Básica, estude conceitos básicos!
+
+Para ser capaz de resolver um problema de matemática, primeiro você tem que entendê-lo e, para isso, uma visão abrangente do conteúdo abordado na aula é essencial.
+
+ - Leia o material e o conteúdo da disciplina antes da aula, sempre que possível!
+
+Tente entender o que o professor de matemática está dizendo. Se você não consegue entender algo, faça perguntas!
+
+---
+
+<p style="text-align: justify;">
+- Refaça os exercícios apresentados em sala de aula!
+</p>
+
+<p style="text-align: justify;">
+Para se tornar um bom aluno de matemática, refaça as contas do professor. Mesmo que você tenha tido a sensação de que entendeu o método de cálculo na aula, é algo completamente diferente fazer o cálculo sozinho. Assim, você irá compreender melhor o problema e, acima de tudo, poderá adaptar sua solução à do professor.
+</p>
+
+---
+
+## Descubra os Horários em que Você é Mais Produtivo
+
+Escolha o momento certo para estudar. Para alguns, é à noite, outros são mais produtivos pela manhã. Isso pode significar que você tem que estudar no fim de semana, mas se você trabalhar com muita concentração, poderá terminar mais rápido e terá tempo para outras coisas.
+---
+
+## Não se Esqueça do Ambiente de Estudos
+
+
+Você deve encarar os estudos como um momento de trabalho, ou de dedicação de alguém que será um futuro profissional! Por isso, você precisa encontrar um local para se dedicar aos estudos! 
+
+Algumas pessoas podem se distrair com música, enquanto outros podem se concentrar melhor. 
+
+Na escrivaninha, na mesa da cozinha, ou no carpete? Ou talvez você tenha uma pequena varanda ou jardim? O ar fresco pode ajudar!
+
+---
+
+## Refaça os Exemplos do Livro Texto!
+
+Principalmente, os exercícios que possuem aplicações práticas! Pratique, pratique, pratique! A prática leva à perfeição.
+
+Muitas pessoas começam a aprender matemática por memorização. Embora essa tática em, alguns casos, possa funcionar, ela também pode causar problemas no futuro. 
+
+
+---
+
+## Defina Metas!
+
+Depois de ler o material, ou assistir as aulas, você pode definir metas sobre quais os tipos de exercícios que deseja focar. Assim, você pode encontrar o caminho mais curto para aprender um determinado tópico.
+
+---
+## Estude seus erros! 
+
+
+A maior vantagem da matemática é ser uma ciência exata. Para um determinado problema, só há uma solução! Portanto, você será capaz de analisar a sua solução para descobrir o erro de seu racíocinio, caso a sua resposta não esteja correta!
+
+
+--- 
+
+## Compreenda os Conceitos
+
+Embora a matemática seja baseada em números e incógnitas, existem conceitos gerais para ajudar a entender os diferentes tipos de problemas matemáticos. Às vezes, tornamos a pergunta mais difícil do que realmente é, pois não entendemos o enunciado da pergunta. Certifique-se de ler as questões devagar e de entender a questão antes de começar a trabalhar na solução. A leitura correta e a interpretação fazem parte da solução da questão!
+---
+
+## Peça Ajuda Sempre que Necessário!
+
+Muitas vezes, não conseguimos entender o que é preciso fazer para resolver uma questão e isso atrapalha a entender o conteúdo e/ou a matéria! Portanto, não tenha vergonha por ter que pedir ajuda!
+
+---
+
 # Momento em que Vivemos...
 
 ## *Evolução*
@@ -341,412 +509,6 @@ Apesar de ser simples utilizar o R diretamente do seu console raiz, existe um co
     <td><a href="https://fsbmat-ufv.shinyapps.io/flexdashboard/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Diarias.jpg"></a></td>
 </tr>
 </table>
----
-
-# CoronaBR: Dashboard com visualizações sobre os dados da Covid 19
-
-<table>
-<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CoronaBR.jpg"></center></a></td>
-</tr>
-</table>
-
-**Vantagens**
-
-- Apresenta dados somente sobre as cidades que possuem casos confirmados;
-- Apresenta estimativa dos recuperados;
-- Atualiza de 12 em 12 horas;
-- Apresenta o Código Fonte.
----
-
-# Treemap
-
-<table>
-<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Treemap.jpg"></center></a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-Técnica de visualização para representar dados hierárquicos usando retângulos aninhados. Nesse caso a área do retângulo representa o número de contaminados e a intensidade da cor vermelha representa o número de óbitos.
-</p>
-
-
----
-
-# Estados
-
-<table>
-<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Estados.jpg"></center></a></td>
-</tr>
-</table>
-
-- Casos de confirmados e óbitos acumulados;
-- Número de casos diários.
-
----
-
-# Cidades
-
-<table>
-<tr><td><a href="https://fsbmat.shinyapps.io/CoronaBR"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Cidades.jpg"></center></a></td>
-</tr>
-</table>
-
-- Casos Diários 
-- Casos Acumulados
-
----
-<p style="text-align: justify;">
-Obviamente, houve um aumento assustador. O número de casos confirmados relatados praticamente dobrou a cada três ou quatro dias dias, ás vezes, em dois dias. E, embora seja importante conhecer o número bruto de casos confirmados, usar somente essas informações pode rapidamente levar uma pessoa a pensar em um cenário iminente e inevitável do dia do juízo final. 
-</p>
-
-<table>
-<tr><td><a href="https://www.eupraticosport.com.br/alexandre-fonseca-game-over-insert-coin/"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/giphy.gif" alt="this slowpoke moves"  width=300/></a></td>
-</table>
-
----
-
-<p style="text-align: justify;">
-Assim, é extremamente importante falar sempre sobre o número de recuperados e também avaliar outras variáveis. Por exemplo, comparar o número de óbitos de 2020 com o número de óbitos de anos anteriores. Outra coisa, é importante ressaltar que, possivelmente, o número de testes aumentaram no Pais no decorrer do tempo, quanto mais testes, mais casos confirmados. Pois como sabemos, cerca de 80% das pessoas não apresentam sintomas. O que quero dizer é que um dia com maior número de casos pode, simplesmente, ser um dia que foram realizados mais testes.
-</p>
-
-<table>
-<tr><td><a href="https://medium.com/@fmelosilva/testes-de-muta%C3%A7%C3%A3o-com-pit-c4e881286741"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/microscopio2.gif" alt="this slowpoke moves"  width=300/></a></td>
-</table>
-
-
----
-
-<table>
-<tr><td><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/redmap1.png"></a></td>
-    <td><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/"><img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/bluemap.png"></a></td>
-</tr>
-</table>
-
-- O mapa da esquerda está usando totais (valores absolutos) como dados brutos.
-- O mapa da direita está normalizado considerando o tamanho populacional para suportar uma comparação visual precisa.
-<p style="text-align: justify;">
-10 casos em uma cidade de 100.000 habitantes são uma situação bem diferente de 10 casos em uma cidade de 100 habitantes.
-</p>
----
-
-## Fonte não Segura!
-
-<table>
-<tr><td><a href="https://twitter.com/RicaPerrone/status/1278282858315079680"><img width="80%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/avaliacaoErrada2.jpg"></a></td></tr>
-</table>
-
----
-
-## Fonte Segura!
-
-<table align=center><tr><td>
-<video width="600" height="400" controls>
-  <source src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/video1.mp4" type="video/mp4">
-</video>
-</td></tr></table>
-
-**Fonte:**[Clique Aqui!](https://twitter.com/Capyvara/status/1268891697745977345)
-
----
-
-# Painel Registral - Registro Civil
-
-<table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/cartorio1.jpg"></center></a></td>
-</tr>
-</table>
-
-Outras causas relacionadas também foram avaliadas, como:
-
-- Síndrome respiratória aguda grave (SRAG)
-- Pneumonia
-- Insuficiência respiratória
-- Septicemia (sepse/choque séptico)
-- Indeterminadas (ligadas a doenças respiratórias)
-- Demais óbitos (todos os outros tipos de óbitos)
-
----
-
-# Período: 01 de janeiro a 28 de junho de 2020
-
-## Brasil
-
-<table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Brasil.png"></center></a></td>
-</tr>
-</table>
-
-.msmall[
-.pull-left-50[
-**2019:**
-
-- Demais Óbitos: 312.058
-- Insuficiência Respiratória: 47.388
-- Pneumonia: 107.662
-- Septicemia: 84.551
-- Indeterminada: 3.132
-- SRAG: 713
-- **Total de óbitos: 555.504**
-]
-.pull-right-50[
-**2020:**
-
-- Demais Óbitos: 310.546
-- Insuficiência Respiratória: 47.068
-- Pneumonia: 91.113
-- Septicemia: 75.435
-- Indeterminada: 4.345
-- SRAG: 9.022
-- Covid19: 55.501
-- **Total de óbitos: 593.030**
-]
-]
-
----
-
-## São Paulo
-
-<table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/SaoPaulo.png"></center></a></td>
-</tr>
-</table>
-
-.msmall[
-.pull-left-50[
-**2019:**
-
-- Demais Óbitos: 77.557
-- Insuficiência Respiratória: 12.527
-- Pneumonia: 35.480
-- Septicemia: 21.450
-- Indeterminada: 674
-- SRAG: 146
-- **Total de óbitos: 147.834**
-]
-.pull-right-50[
-**2020:**
-
-- Demais Óbitos: 77.348
-- Insuficiência Respiratória: 13.827
-- Pneumonia: 28.180
-- Septicemia: 19.026
-- Indeterminada: 837
-- SRAG: 1.287
-- Covid19: 16.565
-- **Total de óbitos: 157.070**
-]
-]
-
----
-
-## Ceará
-
-<table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Ceara.png"></center></a></td>
-</tr>
-</table>
-
-.msmall[
-.pull-left-50[
-**2019:**
-
-- Demais Óbitos: 11.833
-- Insuficiência Respiratória: 1.482
-- Pneumonia: 3.830
-- Septicemia: 2.412
-- Indeterminada: 50
-- SRAG: 23
-- **Total de óbitos: 19.630**
-]
-.pull-right-50[
-**2020:**
-
-- Demais Óbitos: 12.563
-- Insuficiência Respiratória: 1.375
-- Pneumonia: 3.081
-- Septicemia: 2.121
-- Indeterminada: 79
-- SRAG: 410
-- Covid19: 5.714
-- **Total de óbitos: 25.343**
-]
-]
-
----
-
-## Minas Gerais
-
-<table>
-<tr><td><a href="https://transparencia.registrocivil.org.br/especial-covid"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/MinasGerais.png"></center></a></td>
-</tr>
-</table>
-
-.msmall[
-.pull-left-50[
-**2019:**
-
-- Demais Óbitos: 32.266
-- Insuficiência Respiratória: 5.080
-- Pneumonia: 10.070
-- Septicemia: 8.861
-- Indeterminada: 886
-- SRAG: 98
-- **Total de óbitos: 57.261**
-]
-.pull-right-50[
-**2020:**
-
-- Demais Óbitos: 31.862
-- Insuficiência Respiratória: 4.667
-- Pneumonia: 8.842
-- Septicemia: 8.334
-- Indeterminada: 832
-- SRAG: 304
-- Covid19: 1.443
-- **Total de óbitos: 56.284**
-]
-]
-
----
-
-<table>
-<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba1"><center><img width="80%" height="60%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/SemIsolamento.svg"></center></a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-O pico de infectados, sem medidas de distanciamento, poderia ter ocorrido em abril. Estima-se que o número real de infectados no começo de abril foi, ao menos, 10 vezes menor, se comparado ao pico no cenário hipotético de evolução descontrolada da doença.
-</p>
-
-[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba1)
-
----
-
-
-<table>
-<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba2#">
-<center>
-  <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Simulacao1.svg"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-O pico de infectados, que poderia ter ocorrido em abril com milhões de casos (cenário (a)), foi adiado e achatado, O cenário (c) implicaria em cerca de 10 vezes menos infectados e mortos.
-</p>
-
-[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba2)
-
----
-
-
-<table>
-<tr><td><a href="https://covid19br.github.io/cenarios.html?aba=aba3#">
-<center>
-  <img width="50%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/Leitos.svg"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-As linhas horizontais tracejadas indicam a capacidade aproximada do sistema de saúde municipal para cada tipo de leito, baseada em dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES) de fevereiro de 2020.
-</p>
-
-[Observatório COVID-19](https://covid19br.github.io/cenarios.html?aba=aba3#)
-
----
-
-## Avanço da Covid em Minas Gerais 
-
-<table>
-<tr><td><a href="https://covid19br.github.io/estados.html?uf=mg#">
-<center>
-  <img width="80%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/ObservatorioMG.svg"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-Pontos em azul são a previsão para os próximos 5 dias (entre 55081 e 57482 casos em 06/07/2020).
-</p>
-
-[Observatório COVID-19](https://covid19br.github.io/estados.html?uf=mg#)
-
----
-
-## Minas Gerais
-
-<table>
-<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
-<center>
-  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/CovidLPMG.png"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-Pontos em pretos são a previsão para os próximos 14 dias (Aproximadamente 53589 confirmados em 03/07/2020). Acessado no dia 03/07/2020.
-</p>
-
-[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
-
----
-
-## Minas Gerais
-
-<table>
-<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
-<center>
-  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PrevisaoLongoMG.png"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-Pontos em pretos são a previsão para os próximos 14 dias (62940 casos em 03/07/2020). Acessado no dia 03/07/2020.
-</p>
-
-[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
-
----
-
-## Brasil
-
-<table>
-<tr><td><a href="https://dest-ufmg.shinyapps.io/app_COVID19/">
-<center>
-  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/PrevisaoLongo.png"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
-<p style="text-align: justify;">
-Pontos em pretos são a previsão para os próximos 14 dias (entre 55623 casos em 03/07/2020). Acessado no dia 29/06/2020.
-</p>
-
-[app_COVID19](https://dest-ufmg.shinyapps.io/app_COVID19/)
-
----
-
-<p style="text-align: justify;">
-Ninguém pode ter tanta certeza nesse momento de dificuldades, novidades e incertezas que vivemos, pois com certeza estará sujeito a errar constantemente!
-</p>
-
-<table>
-<tr><td><a href="https://twitter.com/OuroDiTolo/status/1278307592809349124?s=09">
-<center>
-  <img width="100%" src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/OsmarTerra.jpg"></img>
-</center>
-</a></td>
-</tr>
-</table>
-
 ---
 
 
