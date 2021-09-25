@@ -20,13 +20,13 @@ source("setup_knitr.R")
 # Slides
 
 .msmall[
-- HTML: [Clique Aqui!](https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/slides/ColTiradentes.html#1)
+- HTML: [Clique Aqui!](https://raw.githack.com/fsbmat-ufv/HowStudy/main/slides/HowStudy.html)
 <!-- - PDF: endereco_aqui.pdf -->
-- Código-fonte: [Clique Aqui!](https://github.com/fsbmat-ufv/ColegioTiradentes/tree/master/slides)
+- Código-fonte: [Clique Aqui!](https://github.com/fsbmat-ufv/HowStudy)
 ]
 
 <table>
-<tr><td><a href="https://tenor.com/view/gato-escribiendo-gif-6108221"><img src="https://raw.githack.com/fsbmat-ufv/ColegioTiradentes/master/img/QrCode.png" alt="this slowpoke moves"  width=300/></a></td>
+<tr><td><a href="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/qr_code.png"><img src="https://raw.githack.com/fsbmat-ufv/HowStudy/main/img/qr_code.png" alt="this slowpoke moves"  width=300/></a></td>
 </table>
 
 ```{r, echo=FALSE, out.width='50%'}
